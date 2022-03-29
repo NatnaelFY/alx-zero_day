@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bas 
  echo "ALX School"
+=======
+#!/bin/bash 
+ echo "ALX"
+>>>>>>> 10cb041e5a53f1a5e55d18536763389ddea6e454
