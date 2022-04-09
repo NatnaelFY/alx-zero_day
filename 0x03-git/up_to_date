@@ -1,2 +1,7 @@
+<<<<<<< HEAD
  add up_to_date 
   pull
+=======
+$git add up_to_date
+$git pull
+>>>>>>> 71aa91657add9afd01de0a2d693ce9cc9e48964e
